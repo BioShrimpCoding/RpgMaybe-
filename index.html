@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terminal RPG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="intro-screen">
+        <div class="scene">
+            <div id="character">🚶</div>
+            <div id="computer-desk">💻</div>
+        </div>
+        <p class="loading-text">Approaching terminal...</p>
+    </div>
+
+    <div id="game-screen" class="hidden">
+        <div id="terminal-output">
+            </div>
+        <div class="input-area">
+            <span>&gt;</span>
+            <input type="text" id="player-input" autocomplete="off" autofocus>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
