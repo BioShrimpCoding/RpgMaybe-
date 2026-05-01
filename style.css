@@ -106,3 +106,18 @@ body {
 .typing-anim {
     animation: typeBounce 0.2s infinite; 
 }
+
+/* Typing cursor effect */
+@keyframes cursorBlink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+}
+
+.typing-cursor {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background-color: #0f0;
+    margin-left: 2px;
+    animation: cursorBlink 0.7s infinite;
+}
