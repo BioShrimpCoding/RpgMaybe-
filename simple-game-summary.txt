@@ -1,0 +1,19 @@
+This project is a browser-based text RPG that looks like a terminal.
+
+What it does:
+- Shows a fake terminal screen with boot text and a command input box.
+- Lets you pick a class and difficulty at the start.
+- Generates rooms as you move (north/south/east/west).
+- Gives random enemies, loot, NPCs, shops, and hazards in rooms.
+- Supports turn-based combat with commands like attack, cast, use, skill, run, and summon.
+- Has inventory, equipment, crafting, transmutation, and enchantments.
+- Includes quests, quest chains, reputation, achievements, and run stats.
+- Has map drawing, biome discovery, and portal fast travel.
+- Includes daily and weekly challenge modes with seeded modifiers.
+- Supports save/load slots, autosave, export-save, leaderboard, and New Game+.
+- Has tutorial/help commands and accessibility text options.
+
+Main files:
+- index.html: The game page layout (terminal output + input field).
+- style.css: Terminal-style visuals (black background, green text, typing look).
+- script.js: Almost all game logic, commands, systems, and progression.

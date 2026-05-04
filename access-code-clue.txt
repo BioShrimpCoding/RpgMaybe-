@@ -1,0 +1,55 @@
+Shrimp 1
+Bio Shrimp
+Command Instructor
+4 May 2026
+
+Captain's Log: Head Scientist Notes
+
+	Captain's log, third watch. Bio Shrimp, head
+scientist, filing routine status after the overnight
+maintenance cycle. Core drift remained quiet, cryo lines
+held, and pressure compensation stayed inside tolerance.
+Operationally we are stable. Administratively we are not.
+Unauthorized retries at the research gate have climbed for
+five consecutive shifts, all by users who think a secret is
+just a word waiting to be guessed.
+
+	I archived no plain token. I left process artifacts,
+the way we do in labs when a formula must survive copying by
+tired hands. Bench card K-19 keeps the warm-start rotor
+labels in line order. If this page is read by someone who
+actually worked turnover, they will already know why warm
+state text cannot be trusted at face value.
+
+	The five labels I care about are written in full on
+the card and nowhere else in this file: Pulse, Null, Flux,
+Helix, Beacon. I only need what remains when each of those
+names is reduced to its smallest useful mark.
+
+	Morning procedure has never changed. Nights close with
+the same directional wheel bias; mornings normalize before
+reading anything that came off an active bank. People who
+skip normalization read noise and call it data. People who
+normalize first usually stop asking me for hints.
+
+	Chronology follows the same policy. The vault ledger
+stores the gross mark and the rollback debit separately,
+not as a single calendar value. Gross entry: MMCLXII.
+Rollback debit: XX. I trust ledger math because memory has
+a talent for rewriting difficult years into easy ones.
+
+	When the gate parser receives the final string, it
+expects command-log shape, not prose shape. One separator.
+No spaces. Left segment alphabetic. Right segment numeric,
+even length, balanced around its midpoint. Any decorative
+character beyond that gets rejected before hash compare.
+
+	If this reads unfriendly, good. We are past the point
+where friendly is safe. The person who belongs in this room
+can reconstruct intent from procedure. The person who cannot
+should meet a closed door.
+
+	Supplemental note: rotate the rotor vocabulary at next
+audit boundary, but keep assembly habits unchanged so trained
+staff can still recover under stress. Never write the final
+credential in standing logs, even in so-called internal docs.
